@@ -1,0 +1,15 @@
+langchain
+langchain-openai
+langchain-community
+langgraph
+faiss-cpu
+chromadb
+openai
+pydantic
+tiktoken
+fastapi
+uvicorn
+python-dotenv
+jupyter
+notebook
+ragas
